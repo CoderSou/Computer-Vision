@@ -1,5 +1,5 @@
 """
-
+Designing a simple, baseline convolutional neural network architecture to classify the 6 food classes.
 """
 # Import necessary libraries
 import os
