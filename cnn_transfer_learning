@@ -1,3 +1,7 @@
+"""
+Developing a computationally efficient and highly accurate solution using transfer learning and
+fine tuning concepts on baseline CNN architecture to optimise for the food classification task.
+"""
 #Import necessary libraries
 import os
 from time import time
